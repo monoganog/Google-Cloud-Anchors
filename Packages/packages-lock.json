@@ -53,6 +53,14 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.multiplayer-hlapi": {
+      "version": "file:C:/Users/monog/Documents/Projects/MultiplayerHLAPI",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "nuget.mono-cecil": "0.1.6-preview"
+      }
+    },
     "com.unity.subsystemregistration": {
       "version": "1.1.0",
       "depth": 2,
@@ -159,6 +167,13 @@
         "com.unity.xr.legacyinputhelpers": "2.1.2",
         "com.unity.subsystemregistration": "1.0.6"
       },
+      "url": "https://packages.unity.com"
+    },
+    "nuget.mono-cecil": {
+      "version": "0.1.6-preview",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.modules.ai": {
